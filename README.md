@@ -3,3 +3,7 @@
 ![Landlock logo with name](landlock-logo-with-name.svg)
 
 ![Landlock logo with shadow](landlock-logo-with-shadow.svg)
+
+## Related work
+
+* The [Go-Landlock Logo](https://github.com/landlock-lsm/go-landlock/tree/main/docs/images)
